@@ -1,4 +1,4 @@
-### नमस्ते (Namaste), [Kushagra here!](https://github.com/kushagragarg15) 👋
+### नमस्ते (Namaste) , [Kushagra here !](https://github.com/kushagragarg15) 👋
 
 I am a final-year Computer Science undergraduate at **LNMIIT**, a full-stack web developer, and someone who enjoys building at the intersection of **blockchain and AI**. Over the last 2+ years, I've gained hands-on experience building full-stack platforms, decentralized marketplaces, and AI-integrated tools — working across React, Node.js, Solidity, and Python. I was selected for **Amazon ML Summer School 2025** (top 3% nationwide), and I currently serve as **Vice Chairperson of the ACM Student Chapter** at my college, where I enjoy coordinating hackathons and growing our coding culture on campus.
 
