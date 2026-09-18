@@ -6,6 +6,7 @@
 </p>
 
 <p align="center">
+  <a href="https://kushagragarg.me"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://drive.google.com/file/d/1f_pkcUxWK8U6fwhHmJGWF4EtjfGpax5K/view?usp=drive_link"><img src="https://img.shields.io/badge/Résumé-2F80ED?style=flat&logo=readdotcv&logoColor=white" alt="Resume"/></a>
   <a href="https://linkedin.com/in/kushagra-garg-6b63262aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://leetcode.com/u/kushagragarg_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
