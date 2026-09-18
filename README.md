@@ -1,89 +1,39 @@
-### नमस्ते (Namaste) , [Kushagra here !](https://github.com/kushagragarg15) 👋
-
-I am a final-year Computer Science undergraduate at **LNMIIT**, a full-stack web developer, and someone who enjoys building at the intersection of **blockchain and AI**. Over the last 2+ years, I've gained hands-on experience building full-stack platforms, decentralized marketplaces, and AI-integrated tools — working across React, Node.js, Solidity, and Python. I was selected for **Amazon ML Summer School 2025** (top 3% nationwide), and I currently serve as **Vice Chairperson of the ACM Student Chapter** at my college, where I enjoy coordinating hackathons and growing our coding culture on campus.
-
-* 🌱 I'm currently sharpening my **blockchain and machine learning** skills
-* 💬 Ask me about full-stack dev, smart contracts, DSA, or competitive programming
-* 📫 How to reach me: [23ucc564@lnmiit.ac.in](mailto:23ucc564@lnmiit.ac.in)
-* 🤝 Open to internship and full-time opportunities in full-stack & blockchain development
-
-**Connect with me:**
-
-<p>
-  <a href="https://linkedin.com/in/kushagra-garg-6b63262aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://leetcode.com/u/kushagragarg_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
-  <a href="https://codeforces.com/profile/_kushagragarg"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
-</p>
-
----
-
-### 💻 Stack I Use
-
+<h1 align="center">नमस्ते — I'm Kushagra Garg</h1>
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,solidity,cpp,bash,react,nodejs,express,fastapi,tailwind,mongodb,mysql,ipfs,vercel,git&perline=8" alt="My Skills"/>
-  </a>
+Final-year CS undergrad at <b>LNMIIT Jaipur</b> · Full-stack & blockchain developer<br/>
+<b>Amazon ML Summer School 2025</b> — top 3% nationwide · Vice Chairperson, ACM Student Chapter
 </p>
-
-**Also working with:** REST APIs · JWT · OAuth 2.0 · AES-256 Encryption · Blockchain/Ethereum · Machine Learning
-
----
-
-### 🔎 Who Am I?
-
-```cpp
-#include <iostream>
-#include <vector>
-#include <string>
-
-class WhoAmI {
-private:
-    std::string user = "Kushagra Garg";
-    std::string current_work = "Building full-stack and blockchain products...";
-    std::vector<std::string> projects = {
-        "🔗 DecnAIX — decentralized marketplace for AI compute",
-        "🤖 AI Code Reviewer — Gemini-powered code analysis",
-        "🎓 Sankalp — rural education platform"
-    };
-
-public:
-    std::string getUser() const {
-        return user;
-    }
-
-    std::string getCurrentWork() const {
-        return current_work;
-    }
-
-    std::vector<std::string> getProjects() const {
-        return projects;
-    }
-
-    std::string getCity() const {
-        return "Jaipur";
-    }
-
-    void ambitions() const {
-        std::cout << "ShipMoreProjects();" << std::endl;
-        std::cout << "LearnSomethingNewEveryWeek();" << std::endl;
-        std::cout << "# always building... stay tuned ;)" << std::endl;
-    }
-};
-```
-
----
-
-### 📌 Featured Projects
-
-- **[AI Code Reviewer](https://github.com/kushagragarg15/AI-Code-Reviewer)** — Full-stack AI code review platform using Gemini AI for real-time quality, performance & security analysis
-- **[DecnAIX](https://github.com/kushagragarg15/decnaix-marketplace)** — P2P blockchain marketplace for AI compute with smart contract escrow & IPFS storage
-- **[Sankalp](https://github.com/kushagragarg15/sankalp-village-project)** — Volunteer education platform that cut manual attendance tracking time by 80%
-
----
-
-### 📊 GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagragarg15&show_icons=true&theme=default&hide_border=true" alt="Kushagra's GitHub stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kushagragarg15&theme=default&hide_border=true" alt="Kushagra's GitHub streak" height="165"/>
+<p align="center">
+<a href="ADD_YOUR_RESUME_LINK"><img src="https://img.shields.io/badge/Résumé-2F80ED?style=flat&logo=readdotcv&logoColor=white" alt="Resume"/></a>
+<a href="https://linkedin.com/in/kushagra-garg-6b63262aa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/kushagragarg_"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white" alt="LeetCode"/></a>
+<a href="https://codeforces.com/profile/_kushagragarg"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="mailto:23ucc564@lnmiit.ac.in"><img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
+I build full-stack products, mostly where web, blockchain and ML overlap — decentralized marketplaces, AI-assisted developer tooling, and platforms that have to hold up in front of real users. Around two years of shipping with React, Node.js, Solidity and Python.
+Currently: going deeper on smart-contract security and applied ML. Open to SDE, full-stack and blockchain roles — internship or new-grad.
+📌 Featured Projects
+🔗 DecnAIX — peer-to-peer marketplace for AI compute
+GPU providers and renters match directly. Payment sits in a Solidity escrow contract until the job completes, and artifacts are pinned to IPFS, so neither side has to trust a middleman or a central server.
+Solidity · Ethereum · IPFS · React · Node.js
+🤖 AI Code Reviewer — Gemini-powered review platform
+Submit a file or diff and get structured feedback on code quality, performance and security — ranked by severity rather than returned as a wall of prose.
+React · Node.js · Express · Gemini API · MongoDB
+🎓 Sankalp — volunteer education platform
+Attendance, scheduling and progress tracking for volunteers teaching in rural schools. Cut manual attendance work by ~80% for coordinators.
+React · Node.js · MongoDB · JWT
+🛠️ Tech
+Languages — Python · JavaScript · C++ · Solidity · SQL · Bash
+Frontend — React · Tailwind CSS
+Backend — Node.js · Express · FastAPI · REST APIs · JWT / OAuth 2.0
+Data — MongoDB · MySQL
+Web3 & Infra — Ethereum · Smart contracts · IPFS · Git · Vercel · AES-256
+🎯 Beyond the code
+Vice Chairperson, ACM Student Chapter @ LNMIIT — run hackathons and campus coding events, and spend a fair amount of time convincing first-years that CP is worth the pain.
+Competitive programming on LeetCode and Codeforces; DSA is the thing I keep coming back to.
+📊 GitHub
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=kushagragarg15&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" height="165"/>
+<img src="https://streak-stats.demolab.com?user=kushagragarg15&hide_border=true&theme=transparent" alt="GitHub streak" height="165"/>
+</p>
+<p align="center"><i>Open to opportunities — reach me at <a href="mailto:23ucc564@lnmiit.ac.in">23ucc564@lnmiit.ac.in</a></i></p>
