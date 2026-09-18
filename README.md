@@ -89,9 +89,5 @@ A mobile robot doing real-time object detection, written in C++ for ROS2 Humble 
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kushagragarg15/kushagragarg15/output/breakout-contribution-graph-dark.svg">
   <img alt="Breakout contribution graph" src="https://raw.githubusercontent.com/kushagragarg15/kushagragarg15/output/breakout-contribution-graph.svg">
 </picture>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kushagragarg15&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent" alt="GitHub stats" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=kushagragarg15&hide_border=true&theme=transparent" alt="GitHub streak" height="165"/>
-</p>
 
 <p align="center"><i>Open to opportunities — <a href="mailto:23ucc564@lnmiit.ac.in">23ucc564@lnmiit.ac.in</a></i></p>
